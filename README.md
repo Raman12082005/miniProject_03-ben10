@@ -1,28 +1,61 @@
-# Money Heist - Mini Project 02
+# 🛸 Ben 10 Alien Showcase
 
-A Money Heist (La Casa de Papel) themed front-end website built with HTML, CSS, and JavaScript.
+A fan-made interactive web experience built around the iconic Ben 10 universe.
+Browse through Ben's most powerful aliens with a draggable hero strip and an animated carousel with dynamic backgrounds.
 
-## Features
-- Interactive canvas mouse-trail reveal effect
-- Animated navbar and hero section
-- Money Heist inspired design with red & gold color palette
+---
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript (Canvas API)
+## 🌐 Live Demo
+[Click here to view](YOUR_GITHUB_PAGES_LINK)
 
-## How to Run
-1. Clone the repo
-2. Open `index.html` with Live Server in VS Code
+---
 
-## Folder Structure
-```
-money-heist/
+## 📸 Screenshots
+
+> Add your screenshots here after deploying
+
+---
+
+## ✨ Features
+
+- 🖱️ Draggable alien strip in the hero section
+- 🎠 Animated carousel with depth-layered alien images
+- 🎨 Dynamic background that changes per alien
+- ⌨️ Keyboard arrow key navigation
+- 🌀 Smooth slide-in text animation on alien switch
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+
+2. Open index.html in your browser — no setup needed.
+
+---
+
+## 📁 Folder Structure
+
+ben10-project/
 ├── index.html
 ├── style.css
 ├── script.js
 └── images/
-    ├── one.png
-    └── twoo.png
-```
+    ├── logo.png
+    ├── alien1.png ... alien6.png
+    └── slider1.png ... slider6.png
+
+---
+
+## 👨‍💻 Author
+
+Made by YOUR_NAME
