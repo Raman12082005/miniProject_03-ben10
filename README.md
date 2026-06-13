@@ -6,7 +6,7 @@ Browse through Ben's most powerful aliens with a draggable hero strip and an ani
 ---
 
 ## 🌐 Live Demo
-[Click here to view](https://raman12082005.github.io/miniProject_03-ben10/)
+[Click here to view Output](https://raman12082005.github.io/miniProject_03-ben10/)
 
 ---
 
