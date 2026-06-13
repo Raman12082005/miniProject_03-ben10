@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ben 10</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- HERO -->
+  <section class="hero">
+    <!-- NAVBAR -->
+    <nav class="navbar">
+      <div class="logo">
+        <img src="images/logo.png" alt="Ben 10 Logo" />
+      </div>
+      <ul class="nav-links">
+        <li>Home</li>
+        <li>Aliens</li>
+        <li>Episodes</li>
+        <li>Games</li>
+        <li>About</li>
+      </ul>
+      <div class="nav-buttons">
+        <button class="btn btn-outline">Login</button>
+        <button class="btn btn-fill">Sign Up</button>
+      </div>
+    </nav>
+
+    <!-- Draggable alien strip (filled by JS) -->
+    <div class="alien-slider" id="alienSlider"></div>
+  </section>
+
+  <!-- SLIDER -->
+  <section class="slider" id="slider">
+    <button class="arrow left-arrow" id="prevBtn">&#10094;</button>
+
+    <div class="slider-images" id="sliderImages"></div>
+
+    <button class="arrow right-arrow" id="nextBtn">&#10095;</button>
+
+    <div class="slider-info-wrapper">
+      <div class="slider-info" id="sliderInfo"></div>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
